@@ -1,1 +1,1 @@
-# Bangalore-House-Prediction
+In these project, I worked on Bangalore house price prediction using machine learning. I utilized the linear regression algorithm to build the model. By collecting data on various house features in Bangalore, like area, bedrooms, and location, I trained the model to predict house prices accurately. Linear regression allowed me to establish a relationship between the features and the target variable, enabling better price predictions for houses in Bangalore.# Bangalore-House-Prediction
